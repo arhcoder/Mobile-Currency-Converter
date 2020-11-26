@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ValoresMonedas">
+        <item>Pesos (MXN)</item>
+        <item>Dólares (USD)</item>
+        <item>Euros (EUR)</item>
+        <item>Bitcoins (BIT)</item>
+    </string-array>
+
+    <string-array name="ValoresTemperatura">
+        <item>°C</item>
+        <item>°F</item>
+        <item>°K</item>
+    </string-array>
+
+</resources>
